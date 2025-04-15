@@ -23,5 +23,13 @@ public class Main {
         int[] nums3 = new int[]{1,2,3,3,2};
         System.out.println(new SingleNumber().singleNumberWithSet(nums3));
         System.out.println(new SingleNumber().singleNumberWithXOR(nums3));
+
+        // P7
+        int[][] nums4 = new int[][]{{1,3,5}, {2,4,6}};
+        System.out.println(Arrays.toString(new SearchA2dMatrix2().searchIn2DArray(nums4, 4)));
+
+        // P10
+        System.out.println(new PowXN().pow(2, 11));
+        System.out.println(new PowXN().fastPow(2, 11));
     }
 }

@@ -6,3 +6,7 @@
 - [P4. 判断二叉树是否对称](./src/SymmetricTree.java)
 - [P5. 不用+/-求两数之和](./src/SumOfTwoIntegers.java)
 - [P6. 单身数字](./src/SingleNumber.java)
+- [P7. 行列递增的二维数组搜索](./src/SearchA2dMatrix2.java)
+- [P8. 判断二叉树是否相同](./src/SameTree.java)
+- [P9. 反转单链表](./src/ReverseLinkedList.java)
+- [P10. 数值的 n 次方](./src/PowXN.java)
